@@ -21,7 +21,3 @@ Clone the repository:
 ## 📄 Requirements
 - Python 3.x
 
----
-
-Made with ❤️ by [Utsav](https://github.com/codebyutsav)
-
